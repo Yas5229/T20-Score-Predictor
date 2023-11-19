@@ -4,7 +4,7 @@ import pickle
 import pandas as pd
 
 app=Flask(__name__)
-model=pickle.load(open("D:\\EXTERNSHIP\\T20\\final_web\\model_XGB.pkl","rb"))
+model=pickle.load(open("model_XGB.pkl","rb"))
 
 @app.route('/')
 def home():
