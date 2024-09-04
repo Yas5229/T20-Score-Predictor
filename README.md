@@ -13,7 +13,7 @@ Data is collected from various sources, including cricket databases, APIs, and w
 - Wickets taken
 - Overs bowled
 - Other relevant match details
-**Data Set Link:** [Data Set Link](https://www.kaggle.com/datasets/veeralakrishna/cricsheet-a-retrosheet-for-cricket)
+  [Data Set Link](https://www.kaggle.com/datasets/veeralakrishna/cricsheet-a-retrosheet-for-cricket)
 
 ### 2. Data Preprocessing
 The collected data is cleaned and preprocessed to ensure consistency and accuracy. Key preprocessing steps include:
